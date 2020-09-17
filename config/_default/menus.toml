@@ -6,31 +6,27 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 10
+  weight = 1
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+    name = "BAI 2019"
+    weight = 3
+    #parent = "ws"
+    url = "/workshop/2019/cfp"
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
+  name = "BAI 2018"
+  weight = 4
+  #parent = "ws"
+  url = "/workshop/2018/cfp"
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
+  name = "BAI 2017"
+  weight = 5
+  #parent = "ws"
+  url = "/workshop/2017/cfp"
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+  weight = 6
