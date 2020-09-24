@@ -1,5 +1,4 @@
 ﻿+++
-title = "Programs 2019"
 active = true
 math = true
 
@@ -10,6 +9,8 @@ linktitle = "Programs 2019"
   weight = 50
 +++
 
+# Programs 2019
+
 <hr>
 
 
@@ -19,7 +20,7 @@ There will also be a reception followed by the annual dinner to facilitate netwo
 
 <hr>
 
-# Schedule 2019
+## Schedule 2019
 <hr>
 
 

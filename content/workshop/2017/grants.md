@@ -1,7 +1,5 @@
 +++
-title = "Travel Grants 2017"
-
-linktitle = "Travel Grants"
+linktitle = "Travel Grants 2017"
 
 [menu.workshop]
   parent = "bai2017"

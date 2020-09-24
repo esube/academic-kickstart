@@ -1,5 +1,5 @@
 ﻿+++
-title = "CFP 2018"
+linktitle = "CFP 2018"
 
 draft = false
 

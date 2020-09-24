@@ -1,11 +1,10 @@
 +++
-title = "Submission Instructions 2018"
 
 draft = false
 
 math = true
 
-linktitle = "Submissions 2018"
+linktitle = "Submission Instructions 2018"
 
 aliases = ["post/submissions/"]
 

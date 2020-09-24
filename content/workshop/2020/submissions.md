@@ -1,5 +1,4 @@
 +++
-title = "Submission Instructions 2020"
 
 draft = false
 
@@ -18,6 +17,8 @@ aliases = ["post/submissions/"]
 image = "neurips-logo-new.svg"
 caption = "NeurIPS2020"
 +++
+
+# Submission Instructions
 
 <!---
 <span style="color:red">__The deadline for submissions has officially passed!__</span>

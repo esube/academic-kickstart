@@ -6,16 +6,14 @@ title: Academic Programs
 #   2 = Compact
 #   3 = Card
 view: 2
-
+date: ""
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
   image: ""
 ---
 
-# Academic Program
 
-### The Program
 The Black in AI Academic program is committed to serving as a resource and supporting Black junior researchers as they apply to graduate programs, navigate graduate school, and enter the postgraduate job market. To that end, we conduct online information sessions, provide scholarships to cover costs related to applications, assign participants to peer and senior mentors, and share crowdsourced documents that demystify application processes. 
 
 In addition to these efforts, we conduct research studies to explore and expose the barriers that affect Black junior researchers, and advocate for structural changes to remove these barriers and foster equitable research environments.
@@ -67,7 +65,7 @@ bai-acad-team@googlegroups.com
 
 ### Resources:
 - Help us identify graduate programs with lower financial barriers by filling out the respective forms below: 
- - [GRE-optional/free programs](https://docs.google.com/forms/d/e/1FAIpQLSdyrhg_dR5RC_R5fr5P0Pq-0C6ozYuDDBplI7SN_ODVZdIdig/viewform?usp=sf_link "GRE-optional/free programs")
- - [Programs with application fee-waivers](https://docs.google.com/forms/d/e/1FAIpQLSdyrhg_dR5RC_R5fr5P0Pq-0C6ozYuDDBplI7SN_ODVZdIdig/viewform?usp=sf_link "Programs with application fee-waivers")
- - [Funded masters programs ](https://docs.google.com/forms/d/e/1FAIpQLScujfBJHwgzG69hO66GPDUQtezszjNlttA3Z1n638n7Gdghsw/viewform?usp=sf_link "Funded masters programs ")
- - [Graduate Fellowships/scholarships](https://docs.google.com/forms/d/e/1FAIpQLSfx-u2XWl74G40tweim3q0Xrdh7iCxQSzTYE1ukS-A9DWEykg/viewform?usp=sf_link "Graduate Fellowships/scholarships")
+  - [GRE-optional/free programs](https://docs.google.com/forms/d/e/1FAIpQLSdyrhg_dR5RC_R5fr5P0Pq-0C6ozYuDDBplI7SN_ODVZdIdig/viewform?usp=sf_link "GRE-optional/free programs")
+  - [Programs with application fee-waivers](https://docs.google.com/forms/d/e/1FAIpQLSdyrhg_dR5RC_R5fr5P0Pq-0C6ozYuDDBplI7SN_ODVZdIdig/viewform?usp=sf_link "Programs with application fee-waivers")
+  - [Funded masters programs ](https://docs.google.com/forms/d/e/1FAIpQLScujfBJHwgzG69hO66GPDUQtezszjNlttA3Z1n638n7Gdghsw/viewform?usp=sf_link "Funded masters programs ")
+  - [Graduate Fellowships/scholarships](https://docs.google.com/forms/d/e/1FAIpQLSfx-u2XWl74G40tweim3q0Xrdh7iCxQSzTYE1ukS-A9DWEykg/viewform?usp=sf_link "Graduate Fellowships/scholarships")

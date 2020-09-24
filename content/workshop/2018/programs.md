@@ -1,5 +1,4 @@
 +++
-title = "Programs 2018"
 active = true
 math = true
 

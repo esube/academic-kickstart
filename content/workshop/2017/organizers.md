@@ -1,9 +1,7 @@
 +++
 draft = false
-title = "Organizers 2018"
+linktitle = "Organizers 2017"
 math = false
-
-linktitle = "Organizers"
 
 [menu.workshop]
   parent = "bai2017"

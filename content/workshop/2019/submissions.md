@@ -1,5 +1,4 @@
 +++
-title = "Submission Instructions 2019"
 
 draft = false
 
@@ -18,6 +17,9 @@ aliases = ["post/submissions/"]
 image = "vancouver-convention-centre-green-roof.jpg"
 caption = "Vancouver"
 +++
+
+# Submission Instrucitons
+
 <span style="color:red">__The deadline for submissions has officially passed!__</span>
 
 We welcome works in artificial intelligence, including, but not limited to, computer vision, deep learning, knowledge reasoning, machine learning, multi-agent systems, natural language processing, statistical reasoning, theory, robotics, as well as applications of AI to other domains such as health and education, and submissions concerning fairness, ethics, and transparency in AI. Papers may introduce new theory, methodology, or applications.

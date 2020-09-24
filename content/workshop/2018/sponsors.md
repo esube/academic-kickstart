@@ -1,5 +1,4 @@
 +++
-title = "Sponsors 2018"
 
 draft = false
 

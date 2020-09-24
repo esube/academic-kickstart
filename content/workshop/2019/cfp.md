@@ -1,5 +1,4 @@
 ﻿+++
-#title = "CFP 2019"
 linktitle = "CFP 2019"
 draft = false
 

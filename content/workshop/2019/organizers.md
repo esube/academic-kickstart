@@ -1,5 +1,5 @@
 ﻿+++
-title = "Organizers 2019"
+linktitle = "Organizers 2019"
 
 draft = false
 

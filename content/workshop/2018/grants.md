@@ -1,5 +1,5 @@
 +++
-title = "Travel Grants 2018"
+linktitle = "Travel Grants 2018"
 
 draft = false
 

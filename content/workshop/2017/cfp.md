@@ -1,7 +1,5 @@
 +++
-title = "CFP 2017"
-
-linktitle = "CFP"
+linktitle = "CFP 2017"
 
 [menu.workshop]
   parent = "bai2017"

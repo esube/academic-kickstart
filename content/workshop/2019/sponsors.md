@@ -1,5 +1,4 @@
 +++
-title = "Sponsors 2019"
 
 draft = false
 
@@ -12,9 +11,12 @@ linktitle = "Sponsors 2019"
   weight = 60
 +++
 
+# Sponsors 2019
+
 Thanks to our corporate sponsors, the workshop is free to attendees and we are able to provide inclusive travel funding to select participants.
 
 <hr>
+
 ## <span style="color:Gold">Title Sponsor</span>
 
 {{< figure src="/img/mcarthur.png" target="_blank" link="https://www.macfound.org/" class="img-sponsor-c">}}

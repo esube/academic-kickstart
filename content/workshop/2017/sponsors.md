@@ -1,11 +1,9 @@
 ﻿+++
-title = "Sponsors 2017"
+linktitle = "Sponsors 2017"
 
 draft = false
 
 math = true
-
-linktitle = "Sponsors"
 
 [menu.workshop]
   parent = "bai2017"

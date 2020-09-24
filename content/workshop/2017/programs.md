@@ -1,9 +1,7 @@
 +++
-title = "Programs 2017"
+linktitle = "Programs 2017"
 active = true
 math = true
-
-linktitle = "Programs"
 
 [menu.workshop]
   parent = "bai2017"

@@ -1,7 +1,6 @@
 +++
-title = "Submission Instructions 2017"
+linktitle = "Submission Instructions 2017"
 
-linktitle = "Submissions"
 [menu.workshop]
   parent = "bai2017"
   weight = 2

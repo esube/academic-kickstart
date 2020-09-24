@@ -1,5 +1,4 @@
 +++
-#title = "Workshop 2020"
 linktitle = "CFP 2020"
 draft = false
 
@@ -13,7 +12,7 @@ image = "neurips-logo-new.svg"
 caption = "NeurIPS2020"
 +++
 
-### Black in AI 2020: Call for Submissions
+# Call for Submissions
 
 We invite submissions for the Fourth Black in AI Workshop (Virtual) Workshop (co-located with [NeurIPS 2020](https://nips.cc/). Both the Black in AI workshop and the NeurIPS conference will be held in a virtual (online) format.
 
